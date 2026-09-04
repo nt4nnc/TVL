@@ -7,5 +7,14 @@
         "video": "https://youtu.be/gy7121Uxg1U",
         "difficulty": "Hard Demon",
         "records": []
+    },
+    {
+        "position": 2,
+        "name": "GitHub",
+        "creator": "NT",
+        "verifier": "NT",
+        "video": "123",
+        "difficulty": "Extreme Demon",
+        "records": []
     }
 ]
