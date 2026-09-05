@@ -15,6 +15,13 @@
         "verifier": "NT",
         "video": "https://youtu.be/PVDJp9rn0ac",
         "difficulty": "Medium Demon",
-        "records": []
+        "records": [
+            {
+                "player": "Wousher",
+                "video": "https://youtu.be/2htuCxVRFbI",
+                "hz": "60",
+                "mobile": false
+            }
+        ]
     }
 ]
