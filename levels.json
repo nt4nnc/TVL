@@ -7,5 +7,14 @@
         "video": "https://youtu.be/gy7121Uxg1U",
         "difficulty": "Hard Demon",
         "records": []
+    },
+    {
+        "position": 2,
+        "name": "Shitty Aquamarine",
+        "creator": "NT",
+        "verifier": "NT",
+        "video": "https://youtu.be/PVDJp9rn0ac",
+        "difficulty": "Medium Demon",
+        "records": []
     }
 ]
